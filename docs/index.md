@@ -19,3 +19,7 @@ For full documentation visit [mkdocs.org](http://mkdocs.org).
     docs/
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
+# Project Management
+
+Hello this is declan, today is 6th of july 2023. My location is Paramaribo Suriname.
+I've just started bootcamp but i don't see any boots so that's kind of dissapointing. 
